@@ -1,4 +1,4 @@
-# web-scraping-challenge
+# Web-Scraping-Challenge
 
 ![mars](https://user-images.githubusercontent.com/117343047/225522087-9036f1e1-19b4-450c-9899-22c35400038a.jpeg)
 

@@ -12,10 +12,6 @@ Deliverable 1: Scrape titles and preview text from Mars news articles
 
 Deliverable 2: Scrape and analyze Mars weather data, which exists in a table
 
-### Files
-Download the following files to help you get started:
-
-Module 11 Challenge filesLinks to an external site.
 
 Instructions
 Part 1: Scrape Titles and Preview Text from Mars News
@@ -73,8 +69,5 @@ Consider how many days elapse on Earth in the time that Mars circles the Sun onc
 Visually estimate the result by plotting the daily minimum temperature.
 Export the DataFrame to a CSV file.
 
-![avg_pressure](https://user-images.githubusercontent.com/117343047/225523145-b166c3a6-68e5-4322-9091-87dceee5c44f.png)
-![avg_temp](https://user-images.githubusercontent.com/117343047/225523171-81ad0d58-37d1-4b54-a6ee-f31b165467d4.png)
-![min_temp](https://user-images.githubusercontent.com/117343047/225523186-0a14ce0e-e9e9-4098-9844-fb19330bfb5b.png)
 
 
